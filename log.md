@@ -45,3 +45,8 @@
 - Zpracován raw zdroj [[AI System/Raw/YouTube/9 Claude Skills I Can’t Live Without (steal them).md]].
 - Přidány human i agent bloky [[AI System/Knowledge/Knowledge-Human/Brand styl drž jako sdílený skill]], [[AI System/Knowledge/Knowledge-Human/Skill katalog audituj pravidelně]], [[AI System/Knowledge/Knowledge-Human/Komunitní skilly instaluj jen po kontrole důvěryhodnosti]], [[AI System/Knowledge/Knowledge-Human/Denní rekap ukládej do pracovní paměti]] a [[AI System/Knowledge/Knowledge-Human/Opakované výstupy bal do deliverable skillů]].
 - Aktualizovány vazby v blocích o skillech, automatizaci, pluginech a design specifikacích a doplněn hlavní index.
+
+## [2026-04-26] ingesce | Figma → Claude
+- Zpracován raw webový zdroj [[AI System/Raw/Web/Figma → Claude.md]].
+- Přidány human i agent bloky [[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem]], [[AI System/Knowledge/Knowledge-Human/Design změny synchronizuj po sekcích a přes pojmenované vrstvy]] a [[AI System/Knowledge/Knowledge-Human/Publikování přes builder MCP dělej až po preview kontrole]].
+- Aktualizovány vazby v blocích o design specifikacích, browser QA, computer use a MCP/pluginech a doplněn hlavní index.

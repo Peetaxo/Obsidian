@@ -37,6 +37,7 @@ Knowledge má dvě vrstvy:
 ## Browser automation
 - [[AI System/Knowledge/Knowledge-Human/Browser automation jako QA smyčka|Browser automation jako QA smyčka]] - Ověřuje UI přes reálný browser v cyklu test-oprava-test.
 - [[AI System/Knowledge/Knowledge-Human/Computer use omez jasnou hranicí úkolu|Computer use omez jasnou hranicí úkolu]] - Používá ovládání desktopu jen pro jasně ohraničené UI-only úkoly.
+- [[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma používej jako vizuální mezivrstvu mezi kódem a designem]] - Vkládá Figmu mezi generovaný kód a finální design iteraci.
 - [[AI System/Knowledge/Knowledge-Human/Přihlášené browser session izoluj a superviduj|Přihlášené browser session izoluj a superviduj]] - Řeší bezpečné použití cookies, login handoffu a headed režimu.
 - [[AI System/Knowledge/Knowledge-Human/Webový obsah předávej agentům jako čistá data|Webový obsah předávej agentům jako čistá data]] - Převádí webový šum do strukturovaného vstupu pro agenta.
 
@@ -50,8 +51,11 @@ Knowledge má dvě vrstvy:
 
 ## Design a frontend
 - [[AI System/Knowledge/Knowledge-Human/Design reference převáděj na systémové specifikace|Design reference převáděj na systémové specifikace]] - Převádí inspiraci na typografii, komponenty, motion a stavy.
+- [[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma používej jako vizuální mezivrstvu mezi kódem a designem]] - Umožňuje člověku ladit vizuál ve Figmě a agentovi propsat změny zpět do kódu.
+- [[AI System/Knowledge/Knowledge-Human/Design změny synchronizuj po sekcích a přes pojmenované vrstvy|Design změny synchronizuj po sekcích a přes pojmenované vrstvy]] - Snižuje chyby Figma/code syncu přes omezený rozsah, názvy vrstev a variables.
 - [[AI System/Knowledge/Knowledge-Human/Brand styl drž jako sdílený skill|Brand styl drž jako sdílený skill]] - Ukládá brand pravidla jako sdílený style skill pro konzistentní vizuální výstupy.
 - [[AI System/Knowledge/Knowledge-Human/Opakované výstupy bal do deliverable skillů|Opakované výstupy bal do deliverable skillů]] - Balí PDF, explainery, carousely a dashboardy do opakovatelných výstupních workflow.
+- [[AI System/Knowledge/Knowledge-Human/Publikování přes builder MCP dělej až po preview kontrole|Publikování přes builder MCP dělej až po preview kontrole]] - Chrání Webflow/Framer/Vercel publish před neověřeným výstupem.
 - [[AI System/Knowledge/Knowledge-Human/Browser automation jako QA smyčka|Browser automation jako QA smyčka]] - Dává frontend změnám ověřovací smyčku v prohlížeči.
 
 ## Research a znalostní báze
@@ -74,6 +78,7 @@ Knowledge má dvě vrstvy:
 - [[AI System/Knowledge/Knowledge-Human/Nástroje přidávej až podle měřítka|Nástroje přidávej až podle měřítka]] - Přidává pluginy a vyhledávání až při konkrétním limitu.
 - [[AI System/Knowledge/Knowledge-Human/Nástroje používej i pro získávání kontextu|Nástroje používej i pro získávání kontextu]] - Připojuje služby primárně jako řízené zdroje kontextu, často read-only.
 - [[AI System/Knowledge/Knowledge-Human/Plugin rozšiřuje schopnosti, skill balí workflow|Plugin rozšiřuje schopnosti, skill balí workflow]] - Rozlišuje přístup ke službě od opakovatelného postupu.
+- [[AI System/Knowledge/Knowledge-Human/Publikování přes builder MCP dělej až po preview kontrole|Publikování přes builder MCP dělej až po preview kontrole]] - Používá builder MCP až po preview kontrole, potvrzení cíle a breakpoint checku.
 - [[AI System/Knowledge/Knowledge-Human/Skilly používej jako rozcestníky ke kontextu|Skilly používej jako rozcestníky ke kontextu]] - Popisuje, kdy skill naviguje agenta k podkladům místo ukládání všech dat do promptu.
 - [[AI System/Knowledge/Knowledge-Human/Komunitní skilly instaluj jen po kontrole důvěryhodnosti|Komunitní skilly instaluj jen po kontrole důvěryhodnosti]] - Brání instalaci neznámých skillů bez kontroly autora, oprávnění a instrukcí.
 - [[AI System/Knowledge/Knowledge-Human/Skill katalog audituj pravidelně|Skill katalog audituj pravidelně]] - Pomáhá řídit rostoucí knihovnu skillů jako auditovatelný systém.
@@ -81,6 +86,7 @@ Knowledge má dvě vrstvy:
 - [[AI System/Knowledge/Knowledge-Human/CLI automatizace šetří tokeny oproti MCP|CLI automatizace šetří tokeny oproti MCP]] - Pomáhá rozhodnout, kdy stačí CLI místo MCP.
 
 ## Raw zdroje
+- [[AI System/Raw/Web/Figma → Claude.md]] - Web workflow pro Figma MCP, Computer Use, Figma/code sync a deploy přes Webflow/Framer/Vercel.
 - [[AI System/Raw/YouTube/9 Claude Skills I Can’t Live Without (steal them).md]] - Claude skills pro dashboard style, skill katalog, audit, PDF guide, denní rekap, Obsidian daily note, carousely a konektory.
 - [[AI System/Raw/YouTube/Codex Full Course 2026 The NEW Best AI Coding Tool.md]] - Codex projekty, soubory, pluginy, skilly, automations, multitasking a produkční workflow.
 - [[AI System/Raw/YouTube/GPT 5.5 + Codex Just Became the Best Model Ever.md]] - Task-based model eval, effort nastavení, browser/computer use a knowledge work v Codexu.

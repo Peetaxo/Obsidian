@@ -28,10 +28,12 @@ nastroje:
 souvisejici:
   - "[[AI System/Knowledge/Knowledge-Human/Browser automation jako QA smyčka|Browser automation jako QA smyčka]]"
   - "[[AI System/Knowledge/Knowledge-Human/Přihlášené browser session izoluj a superviduj|Přihlášené browser session izoluj a superviduj]]"
+  - "[[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma používej jako vizuální mezivrstvu mezi kódem a designem]]"
   - "[[AI System/Knowledge/Knowledge-Human/Nástroje používej i pro získávání kontextu|Nástroje používej i pro získávání kontextu]]"
 zdroje:
   - "[[AI System/Raw/YouTube/GPT 5.5 + Codex Just Became the Best Model Ever.md]]"
   - "[[AI System/Raw/YouTube/Codex Full Course 2026 The NEW Best AI Coding Tool.md]]"
+  - "[[AI System/Raw/Web/Figma → Claude.md]]"
 ---
 
 # Computer use omez jasnou hranicí úkolu
@@ -65,15 +67,18 @@ Pravidla:
 - screenshoty před a po akci
 - read-only nebo minimálními oprávněními, kde to jde
 - explicitním seznamem zakázaných akcí
+- [[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma/code workflow]]
 
 ## Související
 - [[AI System/Knowledge/Knowledge-Human/Browser automation jako QA smyčka|Browser automation jako QA smyčka]]
 - [[AI System/Knowledge/Knowledge-Human/Přihlášené browser session izoluj a superviduj|Přihlášené browser session izoluj a superviduj]]
+- [[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma používej jako vizuální mezivrstvu mezi kódem a designem]]
 - [[AI System/Knowledge/Knowledge-Human/Nástroje používej i pro získávání kontextu|Nástroje používej i pro získávání kontextu]]
 
 ## Zdroje
 - [[AI System/Raw/YouTube/GPT 5.5 + Codex Just Became the Best Model Ever.md]]
 - [[AI System/Raw/YouTube/Codex Full Course 2026 The NEW Best AI Coding Tool.md]]
+- [[AI System/Raw/Web/Figma → Claude.md]]
 
 ## Review
 - Stav: Kandidát.
@@ -87,4 +92,3 @@ Pravidla:
 
 ## Anti-pattern
 - Nechat agenta volně ovládat desktop bez jasného cíle, vizuální kontroly a hranice oprávnění.
-

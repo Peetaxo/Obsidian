@@ -27,12 +27,14 @@ nastroje:
 souvisejici:
   - "[[AI System/Knowledge/Knowledge-Human/Browser automation jako QA smyčka|Browser automation jako QA smyčka]]"
   - "[[AI System/Knowledge/Knowledge-Human/Brand styl drž jako sdílený skill|Brand styl drž jako sdílený skill]]"
+  - "[[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma používej jako vizuální mezivrstvu mezi kódem a designem]]"
   - "[[AI System/Knowledge/Knowledge-Human/Webový obsah předávej agentům jako čistá data|Webový obsah předávej agentům jako čistá data]]"
   - "[[AI System/Knowledge/Knowledge-Human/Nástroje přidávej až podle měřítka|Nástroje přidávej až podle měřítka]]"
 zdroje:
   - "[[AI System/Raw/YouTube/3 New Claude Code Repos Will 100x Your Next Project.md]]"
   - "[[AI System/Raw/YouTube/Top 5 Claude Code Skills... 100,000+ github stars.md]]"
   - "[[AI System/Raw/YouTube/9 Claude Skills I Can’t Live Without (steal them).md]]"
+  - "[[AI System/Raw/Web/Figma → Claude.md]]"
 ---
 
 # Design reference převáděj na systémové specifikace
@@ -64,6 +66,7 @@ Pravidla:
 ## Použij s
 - Design Extract nebo Awesome Design MD reportem
 - [[AI System/Knowledge/Knowledge-Human/Brand styl drž jako sdílený skill|brand style skillem]]
+- [[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma/code iterací]]
 - [[AI System/Knowledge/Knowledge-Human/Browser automation jako QA smyčka|browser QA]] pro ověření výsledku
 - komponentovým checklistem
 - screenshoty referencí a výsledku
@@ -71,6 +74,7 @@ Pravidla:
 ## Související
 - [[AI System/Knowledge/Knowledge-Human/Browser automation jako QA smyčka|Browser automation jako QA smyčka]]
 - [[AI System/Knowledge/Knowledge-Human/Brand styl drž jako sdílený skill|Brand styl drž jako sdílený skill]]
+- [[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma používej jako vizuální mezivrstvu mezi kódem a designem]]
 - [[AI System/Knowledge/Knowledge-Human/Webový obsah předávej agentům jako čistá data|Webový obsah předávej agentům jako čistá data]]
 - [[AI System/Knowledge/Knowledge-Human/Nástroje přidávej až podle měřítka|Nástroje přidávej až podle měřítka]]
 
@@ -78,6 +82,7 @@ Pravidla:
 - [[AI System/Raw/YouTube/3 New Claude Code Repos Will 100x Your Next Project.md]]
 - [[AI System/Raw/YouTube/Top 5 Claude Code Skills... 100,000+ github stars.md]]
 - [[AI System/Raw/YouTube/9 Claude Skills I Can’t Live Without (steal them).md]]
+- [[AI System/Raw/Web/Figma → Claude.md]]
 
 ## Review
 - Stav: Kandidát.

@@ -27,10 +27,12 @@ nastroje:
 souvisejici:
   - "[[AI System/Knowledge/Knowledge-Human/Automatizační skripty proměňuj ve skills|Automatizační skripty proměňuj ve skills]]"
   - "[[AI System/Knowledge/Knowledge-Human/Computer use omez jasnou hranicí úkolu|Computer use omez jasnou hranicí úkolu]]"
+  - "[[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma používej jako vizuální mezivrstvu mezi kódem a designem]]"
   - "[[AI System/Knowledge/Knowledge-Human/Přihlášené browser session izoluj a superviduj|Přihlášené browser session izoluj a superviduj]]"
 zdroje:
   - "[[AI System/Raw/YouTube/Claude Code + Playwright Automates Literally Anything.md]]"
   - "[[AI System/Raw/YouTube/GPT 5.5 + Codex Just Became the Best Model Ever.md]]"
+  - "[[AI System/Raw/Web/Figma → Claude.md]]"
 ---
 
 # Browser automation jako QA smyčka
@@ -64,15 +66,18 @@ Pravidla:
 - Playwright test script
 - headed módem při rizikových akcích
 - screenshoty před a po opravě
+- [[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma/code iterací]]
 
 ## Související
 - [[AI System/Knowledge/Knowledge-Human/Automatizační skripty proměňuj ve skills|Automatizační skripty proměňuj ve skills]]
 - [[AI System/Knowledge/Knowledge-Human/Computer use omez jasnou hranicí úkolu|Computer use omez jasnou hranicí úkolu]]
+- [[AI System/Knowledge/Knowledge-Human/Figma používej jako vizuální mezivrstvu mezi kódem a designem|Figma používej jako vizuální mezivrstvu mezi kódem a designem]]
 - [[AI System/Knowledge/Knowledge-Human/Přihlášené browser session izoluj a superviduj|Přihlášené browser session izoluj a superviduj]]
 
 ## Zdroje
 - [[AI System/Raw/YouTube/Claude Code + Playwright Automates Literally Anything.md]]
 - [[AI System/Raw/YouTube/GPT 5.5 + Codex Just Became the Best Model Ever.md]]
+- [[AI System/Raw/Web/Figma → Claude.md]]
 
 ## Review
 - Stav: Kandidát.

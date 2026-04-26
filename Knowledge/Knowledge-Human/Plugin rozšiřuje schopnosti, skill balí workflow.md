@@ -25,14 +25,17 @@ nastroje:
   - MCP
   - API
   - Zapier MCP
+  - Figma MCP
 souvisejici:
   - "[[AI System/Knowledge/Knowledge-Human/Nástroje používej i pro získávání kontextu|Nástroje používej i pro získávání kontextu]]"
   - "[[AI System/Knowledge/Knowledge-Human/Skilly používej jako rozcestníky ke kontextu|Skilly používej jako rozcestníky ke kontextu]]"
   - "[[AI System/Knowledge/Knowledge-Human/Komunitní skilly instaluj jen po kontrole důvěryhodnosti|Komunitní skilly instaluj jen po kontrole důvěryhodnosti]]"
+  - "[[AI System/Knowledge/Knowledge-Human/Publikování přes builder MCP dělej až po preview kontrole|Publikování přes builder MCP dělej až po preview kontrole]]"
   - "[[AI System/Knowledge/Knowledge-Human/Automatizace stavěj až z odladěného skillu|Automatizace stavěj až z odladěného skillu]]"
 zdroje:
   - "[[AI System/Raw/YouTube/Codex Full Course 2026 The NEW Best AI Coding Tool.md]]"
   - "[[AI System/Raw/YouTube/9 Claude Skills I Can’t Live Without (steal them).md]]"
+  - "[[AI System/Raw/Web/Figma → Claude.md]]"
 ---
 
 # Plugin rozšiřuje schopnosti, skill balí workflow
@@ -65,6 +68,7 @@ Pravidla:
 - [[AI System/Knowledge/Knowledge-Human/Nástroje používej i pro získávání kontextu|kontextovými nástroji]]
 - [[AI System/Knowledge/Knowledge-Human/Skilly používej jako rozcestníky ke kontextu|skilly jako rozcestníky]]
 - [[AI System/Knowledge/Knowledge-Human/Komunitní skilly instaluj jen po kontrole důvěryhodnosti|kontrolou důvěryhodnosti cizích skillů]]
+- [[AI System/Knowledge/Knowledge-Human/Publikování přes builder MCP dělej až po preview kontrole|preview kontrolou před builder deployem]]
 - testem minimálních oprávnění
 - dokumentací vstupu, výstupu a fallbacku
 
@@ -72,11 +76,13 @@ Pravidla:
 - [[AI System/Knowledge/Knowledge-Human/Nástroje používej i pro získávání kontextu|Nástroje používej i pro získávání kontextu]]
 - [[AI System/Knowledge/Knowledge-Human/Skilly používej jako rozcestníky ke kontextu|Skilly používej jako rozcestníky ke kontextu]]
 - [[AI System/Knowledge/Knowledge-Human/Komunitní skilly instaluj jen po kontrole důvěryhodnosti|Komunitní skilly instaluj jen po kontrole důvěryhodnosti]]
+- [[AI System/Knowledge/Knowledge-Human/Publikování přes builder MCP dělej až po preview kontrole|Publikování přes builder MCP dělej až po preview kontrole]]
 - [[AI System/Knowledge/Knowledge-Human/Automatizace stavěj až z odladěného skillu|Automatizace stavěj až z odladěného skillu]]
 
 ## Zdroje
 - [[AI System/Raw/YouTube/Codex Full Course 2026 The NEW Best AI Coding Tool.md]]
 - [[AI System/Raw/YouTube/9 Claude Skills I Can’t Live Without (steal them).md]]
+- [[AI System/Raw/Web/Figma → Claude.md]]
 
 ## Review
 - Stav: Kandidát.
